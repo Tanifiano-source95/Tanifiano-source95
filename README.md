@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zannou Tanifiano Regis de Preval 👋
 
-<!--
-**Tanifiano-source95/Tanifiano-source95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst based in Benin 🇧🇯
 
-Here are some ideas to get you started:
+I hold a Bachelor's degree in Administration and Social Security 
+and I am actively building my skills in Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Microsoft Excel (Pivot Tables, advanced formulas, data cleaning)
+- SQL (SELECT, JOIN, GROUP BY, aggregations)
+- Python (coming soon)
+- Power BI (coming soon)
+
+## 📂 My Projects
+| Project | Tools | Link |
+|---------|-------|------|
+| Salary Analysis - Benin | Excel | [View]() |
+| Labour Market - Benin | Excel | [View]() |
+| Unemployment West Africa | Excel | [View]() |
+| SQL Database - Benin | SQL | In progress |
+
+## 📫 Contact me
+- LinkedIn : [Zannou Tanifiano Regis De Preval]
+- Email : [Tanifianozannou261@gmail.com]
