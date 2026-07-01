@@ -1,6 +1,6 @@
 # Hi, I'm Zannou Tanifiano Regis de Preval 👋
 
-🎯 Junior Data Analyst based in Benin 🇧🇯
+🎯 Aspiring Data Analyst based in Benin 🇧🇯
 
 I hold a Bachelor's degree in Administration and Social Security 
 and I am actively building my skills in Data Analysis.
